@@ -5,6 +5,7 @@ Multi-line comments are possible with triple quotes like this.
 # pandas is a common library for working with data in Python, we usually import it like so:
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 # This data comes from the UCI ML repository:
 # https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
